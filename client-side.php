@@ -1,6 +1,7 @@
 <?php
 
 /**
+ * This Sample is Simple Soap file
  * SOAP non-WSDL client-side initial code
  * 
  * @package			PhpFiddle
